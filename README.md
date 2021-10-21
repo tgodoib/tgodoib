@@ -13,7 +13,11 @@
 
 <br/>
 
+<div style="width: 45%; display: inline-block; vertical-align: top;">
+
 **Languages and Tools**
+
+<br/>
 <p>
 <img height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 <img height="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -31,10 +35,11 @@
 **Get in Touch**
  - [📧 Email](mailto:t215386@dac.unicamp.br)
 
-<br />
+</div>
 
+<div style="display: inline-block; width: 45%;">
 <p align="center">
-  <img alt="Top Used Languages" src="https://custom-readme.herokuapp.com/top-languages"/>
+  <img alt="Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgodoib&langs_count=6&title_color=C67FFF&bg_color=ffffff00&text_color=22BF7B&hide_border=true"/>
 </p>
-
+</div>
 
